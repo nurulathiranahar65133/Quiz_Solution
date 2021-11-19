@@ -12,4 +12,4 @@ Negative is for non-palindrome words.
 
 Total count for negative words = 234217
 
-Total count for positive words = 
+Total count for positive words = 154
